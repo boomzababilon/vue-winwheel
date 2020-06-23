@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "vue-winwheel@2.8.0",
+      "/Users/narutchaiwongjiak/myWork/new-member"
+    ]
+  ],
+  "_from": "vue-winwheel@1.0.0",
+  "_id": "vue-winwheel@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-jQ/fh00yxCm27xjETpJUt0hFilk/kfSbLoOlPmjfuRy7KoDvUZQFNx/f/J5VuOYCfKdGty8AGs80SU3rtQ2PeQ==",
+  "_location": "/vue-winwheel",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "vue-winwheel@1.0.0",
+    "name": "vue-winwheel",
+    "escapedName": "vue-winwheel",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-winwheel/-/vue-winwheel-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "/Users/narutchaiwongjiak/myWork/new-member",
+  "author": {
+    "name": "rebotak",
+    "email": "rebotak@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/rebotak/vue-winwheel/issues"
+  },
+  "dependencies": {
+    "gsap": "^2.0.2"
+  },
+  "description": "a winwheel for vuejs based on http://dougtesting.net/home",
+  "homepage": "https://github.com/rebotak/vue-winwheel#readme",
+  "keywords": [
+    "vue",
+    "vue-winwheel",
+    "vue winwheel",
+    "vue roulette",
+    "vue lucky spin"
+  ],
+  "license": "MIT",
+  "main": "./vue-winwheel.vue",
+  "name": "vue-winwheel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebotak/vue-winwheel.git"
+  },
+  "version": "1.0.0"
+}
